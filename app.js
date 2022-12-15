@@ -42,61 +42,85 @@ const app = {
             singer: "ED Sheeran",
             path: "./assets/music/song5.mp3",
             image: "./assets/img/song5.jpg"
-          },
-          {
+        },
+        {
             name: "Shape Of You",
             singer: "ED Sheeran",
             path: "./assets/music/song6.mp3",
             image: "./assets/img/song6.jpg"
-          },
-          {
+        },
+        {
             name: "We Don't Talk Anymore",
             singer: "Charlie Puth, Selena Gomez",
             path: "./assets/music/song7.mp3",
             image: "./assets/img/song7.jpg"
-          },
-          {
+        },
+        {
             name: "Lily",
             singer: "Alan Walker",
             path: "./assets/music/song8.mp3",
             image: "./assets/img/song8.jpg"
-          },
-          {
+        },
+        {
             name: "No Promise",
             singer: "Shayne Ward",
             path: "./assets/music/song9.mp3",
             image: "./assets/img/song9.jpg"
-          },
-          {
+        },
+        {
             name: "My Love",
             singer: "Westlife",
             path: "./assets/music/song10.mp3",
             image: "./assets/img/song10.jpg"
-          },
-      {
-        name: "Ngôi sao cô đơn",
-        singer: "Jack",
-        path: "./assets/music/song1.mp3",
-        image: "./assets/img/song1.jpg"
-      },
-      {
-        name: "Hai mươi hai",
-        singer: "Amee",
-        path: "./assets/music/song2.mp3",
-        image: "./assets/img/song2.jpg"
-      },
-      {
-        name: "Ta cứ đi cùng nhau",
-        singer: "Đen Vâu",
-        path: "./assets/music/song3.mp3",
-        image: "./assets/img/song3.jpg"
-      },
-      {
-        name: "Mặt trời của em",
-        singer: "Phương Ly",
-        path: "./assets/music/song4.mp3",
-        image: "./assets/img/song4.jpg"
-      },
+        },
+        {
+            name: "Ngôi sao cô đơn",
+            singer: "Jack",
+            path: "./assets/music/song1.mp3",
+            image: "./assets/img/song1.jpg"
+        },
+        {
+            name: "Hai mươi hai",
+            singer: "Amee",
+            path: "./assets/music/song2.mp3",
+            image: "./assets/img/song2.jpg"
+        },
+        {
+            name: "Ta cứ đi cùng nhau",
+            singer: "Đen Vâu",
+            path: "./assets/music/song3.mp3",
+            image: "./assets/img/song3.jpg"
+        },
+        {
+            name: "Mặt trời của em",
+            singer: "Phương Ly",
+            path: "./assets/music/song4.mp3",
+            image: "./assets/img/song4.jpg"
+        },
+        {
+            name: "happier",
+            singer: "Olivia Rodrigo",
+            path: "./assets/music/song11.mp3",
+            image: "./assets/img/song11.jpg"
+        },
+        {
+            name: "drivers license",
+            singer: "Olivia Rodrigo",
+            path: "./assets/music/song12.mp3",
+            image: "./assets/img/song12.png"
+        },
+        {
+            name: "deja vu",
+            singer: "Olivia Rodrigo",
+            path: "./assets/music/song13.mp3",
+            image: "./assets/img/song13.jpg"
+        },
+        {
+            name: "traitor",
+            singer: "Olivia Rodrigo",
+            path: "./assets/music/song14.mp3",
+            image: "./assets/img/song14.jpg"
+        },
     ],
 
 
